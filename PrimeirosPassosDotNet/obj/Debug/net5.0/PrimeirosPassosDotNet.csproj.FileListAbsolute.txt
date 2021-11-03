@@ -1,0 +1,16 @@
+E:\DESENVOLVIMENTO\DIO\bootcamp_everis_3\PrimeirosPassosDotNet\bin\Debug\net5.0\PrimeirosPassosDotNet.exe
+E:\DESENVOLVIMENTO\DIO\bootcamp_everis_3\PrimeirosPassosDotNet\bin\Debug\net5.0\PrimeirosPassosDotNet.deps.json
+E:\DESENVOLVIMENTO\DIO\bootcamp_everis_3\PrimeirosPassosDotNet\bin\Debug\net5.0\PrimeirosPassosDotNet.runtimeconfig.json
+E:\DESENVOLVIMENTO\DIO\bootcamp_everis_3\PrimeirosPassosDotNet\bin\Debug\net5.0\PrimeirosPassosDotNet.runtimeconfig.dev.json
+E:\DESENVOLVIMENTO\DIO\bootcamp_everis_3\PrimeirosPassosDotNet\bin\Debug\net5.0\PrimeirosPassosDotNet.dll
+E:\DESENVOLVIMENTO\DIO\bootcamp_everis_3\PrimeirosPassosDotNet\bin\Debug\net5.0\ref\PrimeirosPassosDotNet.dll
+E:\DESENVOLVIMENTO\DIO\bootcamp_everis_3\PrimeirosPassosDotNet\bin\Debug\net5.0\PrimeirosPassosDotNet.pdb
+E:\DESENVOLVIMENTO\DIO\bootcamp_everis_3\PrimeirosPassosDotNet\obj\Debug\net5.0\PrimeirosPassosDotNet.csproj.AssemblyReference.cache
+E:\DESENVOLVIMENTO\DIO\bootcamp_everis_3\PrimeirosPassosDotNet\obj\Debug\net5.0\PrimeirosPassosDotNet.GeneratedMSBuildEditorConfig.editorconfig
+E:\DESENVOLVIMENTO\DIO\bootcamp_everis_3\PrimeirosPassosDotNet\obj\Debug\net5.0\PrimeirosPassosDotNet.AssemblyInfoInputs.cache
+E:\DESENVOLVIMENTO\DIO\bootcamp_everis_3\PrimeirosPassosDotNet\obj\Debug\net5.0\PrimeirosPassosDotNet.AssemblyInfo.cs
+E:\DESENVOLVIMENTO\DIO\bootcamp_everis_3\PrimeirosPassosDotNet\obj\Debug\net5.0\PrimeirosPassosDotNet.csproj.CoreCompileInputs.cache
+E:\DESENVOLVIMENTO\DIO\bootcamp_everis_3\PrimeirosPassosDotNet\obj\Debug\net5.0\PrimeirosPassosDotNet.dll
+E:\DESENVOLVIMENTO\DIO\bootcamp_everis_3\PrimeirosPassosDotNet\obj\Debug\net5.0\ref\PrimeirosPassosDotNet.dll
+E:\DESENVOLVIMENTO\DIO\bootcamp_everis_3\PrimeirosPassosDotNet\obj\Debug\net5.0\PrimeirosPassosDotNet.pdb
+E:\DESENVOLVIMENTO\DIO\bootcamp_everis_3\PrimeirosPassosDotNet\obj\Debug\net5.0\PrimeirosPassosDotNet.genruntimeconfig.cache
