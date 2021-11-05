@@ -1,0 +1,16 @@
+E:\DESENVOLVIMENTO\DIO\bootcamp_everis_3\AppDeTransfersBancarias\DIO.Bank\bin\Debug\net5.0\DioBank.exe
+E:\DESENVOLVIMENTO\DIO\bootcamp_everis_3\AppDeTransfersBancarias\DIO.Bank\bin\Debug\net5.0\DioBank.deps.json
+E:\DESENVOLVIMENTO\DIO\bootcamp_everis_3\AppDeTransfersBancarias\DIO.Bank\bin\Debug\net5.0\DioBank.runtimeconfig.json
+E:\DESENVOLVIMENTO\DIO\bootcamp_everis_3\AppDeTransfersBancarias\DIO.Bank\bin\Debug\net5.0\DioBank.runtimeconfig.dev.json
+E:\DESENVOLVIMENTO\DIO\bootcamp_everis_3\AppDeTransfersBancarias\DIO.Bank\bin\Debug\net5.0\DioBank.dll
+E:\DESENVOLVIMENTO\DIO\bootcamp_everis_3\AppDeTransfersBancarias\DIO.Bank\bin\Debug\net5.0\ref\DioBank.dll
+E:\DESENVOLVIMENTO\DIO\bootcamp_everis_3\AppDeTransfersBancarias\DIO.Bank\bin\Debug\net5.0\DioBank.pdb
+E:\DESENVOLVIMENTO\DIO\bootcamp_everis_3\AppDeTransfersBancarias\DIO.Bank\obj\Debug\net5.0\DioBank.csproj.AssemblyReference.cache
+E:\DESENVOLVIMENTO\DIO\bootcamp_everis_3\AppDeTransfersBancarias\DIO.Bank\obj\Debug\net5.0\DioBank.GeneratedMSBuildEditorConfig.editorconfig
+E:\DESENVOLVIMENTO\DIO\bootcamp_everis_3\AppDeTransfersBancarias\DIO.Bank\obj\Debug\net5.0\DioBank.AssemblyInfoInputs.cache
+E:\DESENVOLVIMENTO\DIO\bootcamp_everis_3\AppDeTransfersBancarias\DIO.Bank\obj\Debug\net5.0\DioBank.AssemblyInfo.cs
+E:\DESENVOLVIMENTO\DIO\bootcamp_everis_3\AppDeTransfersBancarias\DIO.Bank\obj\Debug\net5.0\DioBank.csproj.CoreCompileInputs.cache
+E:\DESENVOLVIMENTO\DIO\bootcamp_everis_3\AppDeTransfersBancarias\DIO.Bank\obj\Debug\net5.0\DioBank.dll
+E:\DESENVOLVIMENTO\DIO\bootcamp_everis_3\AppDeTransfersBancarias\DIO.Bank\obj\Debug\net5.0\ref\DioBank.dll
+E:\DESENVOLVIMENTO\DIO\bootcamp_everis_3\AppDeTransfersBancarias\DIO.Bank\obj\Debug\net5.0\DioBank.pdb
+E:\DESENVOLVIMENTO\DIO\bootcamp_everis_3\AppDeTransfersBancarias\DIO.Bank\obj\Debug\net5.0\DioBank.genruntimeconfig.cache
