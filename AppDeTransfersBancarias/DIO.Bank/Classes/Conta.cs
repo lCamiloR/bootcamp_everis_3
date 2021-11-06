@@ -23,7 +23,7 @@ namespace DIO.Bank.Classes
         public bool Sacar(double valorSaque)
         {
             // TODO: Valida se saldo suficiente
-            if ((this.Saldo - valorSaque) > this.Credito)
+            if ((this.Saldo - valorSaque) < (this.Credito * -1))
             {
                 Console.WriteLine("Saldo Insuficiente!");
                 return false;
@@ -40,7 +40,6 @@ namespace DIO.Bank.Classes
         public void Depositar(double valorDeposito)
         {
             // TODO: Acrescimo do valor do saldo
-            Console.WriteLine($"Saldo anterior de R$ {this.Saldo}");
             Console.WriteLine($"Deposito de R$ {valorDeposito}");
 
             this.Saldo += valorDeposito;
@@ -59,8 +58,6 @@ namespace DIO.Bank.Classes
         public override string ToString()
         {
             StringBuilder retorno = new StringBuilder($"Tipo de Conta: {this.TipoDeConta} \n");
-
-            retorno.Append($"Tipo de Conta: {this.TipoDeConta} \n");
             retorno.Append($"Titular: {this.Nome} \n");
             retorno.Append($"Saldo: {this.Saldo} \n");
             retorno.Append($"Crédito: {this.Credito} \n");
